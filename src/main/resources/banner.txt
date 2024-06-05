@@ -1,0 +1,1 @@
+Copyright © xLikeWATCHDOG 2024-${year}.

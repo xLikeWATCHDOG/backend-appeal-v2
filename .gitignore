@@ -35,3 +35,9 @@ out/
 
 ### VS Code ###
 .vscode/
+
+/config/
+/logs/
+/avatars/
+admin.txt
+/photos/

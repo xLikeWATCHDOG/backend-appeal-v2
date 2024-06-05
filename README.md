@@ -7,13 +7,14 @@
 ![License](https://img.shields.io/github/license/xLikeWATCHDOG/backend-appeal-v2?style=flat-square)
 
 </div>
+
 ## 介绍
 
 此项目为Appeal的后端部分，使用SpringBoot框架，数据库使用MySQL。为Appeal V1的升级版本，同时可从V1任何条件下升级到V2。
 
 ## LICENSE
 
-此项目使用MIT协议，详细内容请查看[LICENSE](LICENSE)文件。
+此项目使用`MIT`协议，详细内容请查看[LICENSE](LICENSE)文件。
 
 ## 使用
 

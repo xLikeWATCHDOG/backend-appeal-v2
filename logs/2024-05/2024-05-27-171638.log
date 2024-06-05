@@ -1,0 +1,5 @@
+2024-05-27 17:16:38.189 [Test worker] INFO  cn.watchdog.v2.appeal.BackendAppealV2ApplicationTests - Starting BackendAppealV2ApplicationTests using Java 17.0.8 with PID 677 (started by nothing in /Users/nothing/Documents/Projects/backend-appeal-v2)
+2024-05-27 17:16:38.191 [Test worker] INFO  cn.watchdog.v2.appeal.BackendAppealV2ApplicationTests - No active profile set, falling back to 1 default profile: "default"
+2024-05-27 17:16:38.425 [Test worker] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[cn.watchdog.v2.appeal]' package. Please check your configuration.
+2024-05-27 17:16:38.642 [Test worker] WARN  org.springframework.boot.autoconfigure.thymeleaf.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration - Cannot find template location: classpath:/templates/ (please add some templates, check your Thymeleaf configuration, or set spring.thymeleaf.check-template-location=false)
+2024-05-27 17:16:38.758 [Test worker] INFO  cn.watchdog.v2.appeal.BackendAppealV2ApplicationTests - Started BackendAppealV2ApplicationTests in 0.711 seconds (process running for 1.126)
